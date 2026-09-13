@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Fabián Ricardo Trujillo Gonzalez 
+### Fabián Ricardo Trujillo Gonzalez 
 ### Proceso de Desarrollar Full Stack & Analista de Datos
 
 <!-- REQUISITO RECLUTADOR: Tecnologías visibles en el primer segundo -->
