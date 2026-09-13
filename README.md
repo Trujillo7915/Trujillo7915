@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ¡Hola! Soy Fabián Ricardo Trujillo Gonzalez 👋
-### Desarrollar Full Stack & Analista de Datos
+Fabián Ricardo Trujillo Gonzalez 
+### Proceso de Desarrollar Full Stack & Analista de Datos
 
 <!-- REQUISITO RECLUTADOR: Tecnologías visibles en el primer segundo -->
 ![JavaScript](https://shields.io)
