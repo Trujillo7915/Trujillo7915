@@ -34,8 +34,4 @@ Desarrollador orientado a la resolución de problemas técnicos mediante una só
 ---
 
 ### 📊 Actividad y Métricas en GitHub
-
-<p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://vercel.app" alt="Lenguajes más usados" width="48%" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Trujillo7915&theme=horizon&border_radius=6.6&locale=es&timezone=America%2FBogota&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun&card_width=1200&card_height=200)](https://git.io/streak-stats)
