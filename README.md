@@ -13,14 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Fabián Ricardo Trujillo González
-### Ingeniero en Desarrollo de Software & Analista de Software
+<h1 align="center">Fabián Ricardo Trujillo Gonzalez </h1>
+
+<p align="center"> Ingeniero en Desarrollo de Software & Analista de Software
+</p>
 
 [LinkedIn](LINK_A_TU_LINKEDIN) | [Correo Electrónico](mailto:tu.correo@email.com) | [Portafolio Técnico](LINK_OPCIONAL)
+  
+
 
 ---
 
-## Experiences
+<h1 align="center">Experiences</h1>  
 
 ### **Desarrollador Full Stack & Analista de Software Autónomo**
 *2025 - Presente*
@@ -30,7 +34,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Projects
+<h1 align="center">Projects</h1> 
 
 ### **Residential Complex**
 *Sistema de gestión residencial enfocado en la automatización administrativa y analítica profunda de datos.*
@@ -41,7 +45,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Skills
+<h1 align="center">Skills</h1> 
 
 | Área Técnica | Tecnologías y Herramientas |
 | :--- | :--- |
@@ -52,7 +56,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Education
+<h1 align="center">Education</h1> 
 
 ### **Ingeniería en Desarrollo de Software**
 *Servicio Nacional de Aprendizaje (SENA) / Institución Universitaria* | *Estudiante Activo*
@@ -64,7 +68,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Estadísticas de Actividad
+<h1 align="center">Estadísticas de Actividad </h1> 
 
 A continuación se presentan las métricas de rendimiento y lenguajes de programación utilizados en producción en los repositorios públicos de la plataforma:
 
